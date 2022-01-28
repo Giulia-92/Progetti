@@ -1,0 +1,86 @@
+
+body{
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size:1400px;
+    background-position: center;
+    
+}
+
+#container
+{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 70px;
+    margin-top: 10px;
+    height:600px;
+    width: 950px;
+    background-color: black;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    position: fixed;
+}
+.logo1{
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.btn-group{
+background-color:#00ff00;
+color:white;
+text-align: center;
+object-position:center;
+height: 30px;
+margin-left: 10%;
+margin-right: 10%;
+padding-top:10px ;
+}
+main{
+height: 500px;
+text-align: center;
+background-size:80px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color:#00ff00;
+    text-align:center;
+}
+.hrarancio{
+    background-color: rgb(253, 181, 47);
+    height:18px;
+    border-radius:3px;
+    margin-right:80%;
+}
+.hrverde{
+    background-color: rgb(26, 223, 26);
+    height: 18px;
+    border-radius:3px;
+    margin-right:55%;
+}
+.hrrosso{
+    background-color: rgb(218, 38, 14);
+    height: 18px;
+    border-radius:3px;
+    margin-right:85%;
+}
+.ul{
+     text-align:left;
+     color: white;
+     font-size: 20;
+     margin-left:10%;  
+}
+.sottotitolo{
+    text-align:left;
+    color: white;
+    font-size: 14;
+}
+.titolo{
+    margin-top: 20px;
+    text-align:left;
+    color: white;
+    font-size: 20; 
+}
